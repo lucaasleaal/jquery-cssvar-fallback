@@ -1,0 +1,9 @@
+:root{
+--color :  red ;
+--example-var_d : blue   ;
+}
+
+body{
+	background-color: var( --color) ;
+	color: var( --example-var_d  )   ;
+}
